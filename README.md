@@ -17,3 +17,14 @@ Used by the CART (classification and regression tree) algorithm for classificati
 Information gain is used to decide which feature to split on at each step in building the tree. Simplicity is best, so we want to keep our tree small. To do so, at each step we should choose the split that results in the purest daughter nodes
 
 ![alt text](https://github.com/sona-19/DecisionTrees_from_Scratch/blob/master/Selection_003.png)
+
+
+
+REFERENCES
+
+https://www.youtube.com/watch?v=LDRbO9a6XPU
+
+https://www.youtube.com/watch?v=QHOazyP-YlM
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=2ahUKEwj1m66-qdzhAhUZb30KHY22AsAQFjALegQIABAB&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdecision-tree%2F&usg=AOvVaw3qU9W7CoaWOcjv4VqiwoXG
+
